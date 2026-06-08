@@ -49,3 +49,10 @@ manojseervi08@gmail.com
 
 ---
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojseervi0&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojseervi0&layout=compact&theme=tokyonight)
