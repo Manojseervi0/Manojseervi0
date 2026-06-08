@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj Seervi
 
-<!--
-**Manojseervi0/Manojseervi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Python
+- C++
+- Data Structures & Algorithms
+- Machine Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+- Mutual Fund Analytics Dashboard
+- Job Scraper System
+- Machine Learning Projects
+- Hospital Management System
+
+## 🛠️ Skills
+
+- Python
+- C++
+- SQL
+- Git & GitHub
+- HTML
+- CSS
+- Machine Learning
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- DBMS
+- Machine Learning
+- Data Science
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/manoj-seervi
+- Email: manoj.seervi.dev@gmail.com
+
+Thanks for visiting my profile! ⭐
