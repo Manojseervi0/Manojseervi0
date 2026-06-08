@@ -1,22 +1,24 @@
 # Hi 👋, I'm Manoj Seervi
 
-🎓 B.Tech Computer Science Student
+### 🎓 B.Tech Computer Science Student
 
-💻 Passionate about:
-- Python
-- C++
-- Data Structures & Algorithms
-- Machine Learning
-- Data Science
+💻 Python Developer | Machine Learning Enthusiast | DSA Learner
 
-## 🚀 Current Projects
+---
 
-- Mutual Fund Analytics Dashboard
-- Job Scraper System
-- Machine Learning Projects
-- Hospital Management System
+## 🚀 Projects
 
-## 🛠️ Skills
+🔹 Mutual Fund Analytics Dashboard
+
+🔹 Job Scraper System
+
+🔹 Hospital Management System
+
+🔹 Machine Learning Experiments
+
+---
+
+## 🛠️ Tech Stack
 
 - Python
 - C++
@@ -26,16 +28,24 @@
 - CSS
 - Machine Learning
 
+---
+
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
 - DBMS
-- Machine Learning
 - Data Science
+- Machine Learning
 
-## 📫 Connect With Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/manoj-seervi
-- Email: manoj.seervi.dev@gmail.com
+## 📫 Connect
 
-Thanks for visiting my profile! ⭐
+🔗 LinkedIn:
+https://www.linkedin.com/in/manoj-seervi
+
+📧 Email:
+manojseervi08@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
